@@ -97,7 +97,7 @@ describe('ComparisonResults', () => {
     });
 
     it('should render loading skeleton when loading is true', () => {
-        const { container } = render(
+        render(
             <ComparisonResults
                 result={null}
                 input={null}
