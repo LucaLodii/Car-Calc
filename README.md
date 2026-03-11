@@ -209,7 +209,7 @@ npm test
 
 ### Aplicação em Produção
 
-- Frontend: [https://arko-teste-pratico.vercel.app](https://arko-teste-pratico.vercel.app)
+- Frontend: https://arko-teste-pratico-git-main-uai-hack.vercel.app/
 - Backend: [https://arko-calculator-backend-production.up.railway.app](https://arko-calculator-backend-production.up.railway.app)
 
 ### Configuração de Deploy
